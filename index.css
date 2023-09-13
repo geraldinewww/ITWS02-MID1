@@ -36,11 +36,11 @@ html,
 	}
 	img.big-image
 		{
-		max-width: 200%;
+		max-width: 100%;
 		}
 		p.caption
 		{
-		font-size: 20px;
+		font-size: 16px;
 		color: lightgrey;
 		font-style: italic;
 		}
